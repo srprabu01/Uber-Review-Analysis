@@ -44,6 +44,9 @@ This project aims to provide a comprehensive view of Uber's customer feedback us
 - Donut chart for sentiment proportions
 - App version-specific analysis
 
+![Uber_PowerBI](https://github.com/user-attachments/assets/0d54fb10-8e5b-4d5f-b0d7-6c487503c851)
+
+
 ---
 
 ## Project Structure
